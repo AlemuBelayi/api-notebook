@@ -1,0 +1,10 @@
+Dockerfile*
+helm
+build
+server.py
+valkyr.yaml
+Makefile
+Jenkinsfile
+.travis.yml
+node_modules
+coverage
